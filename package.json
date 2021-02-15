@@ -1,0 +1,33 @@
+{
+  "name": "node-red-contrib-float",
+  "version": "1.0.0",
+  "description": "Node-RED node to parse decimal and binary numbers to IEEE-754 Floating Point Numbers",
+  "main": "float.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red": {
+    "nodes": {
+      "toDouble": "double.js"
+    }
+  },
+  "keywords": [
+    "node-red",
+    "IEEE-754",
+    "luigonsec",
+    "Float64",
+    "Double",
+    "Converter",
+    "Decode"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luigonsec/node-red-contrib-double.git"
+  },
+  "author": "Luis González Seco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luigonsec/node-red-contrib-double/issues"
+  },
+  "homepage": "https://github.com/robertsLando/node-red-contrib-double#readme"
+}
