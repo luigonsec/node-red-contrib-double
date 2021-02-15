@@ -79,5 +79,5 @@ module.exports = function (RED) {
             }
         });
     }
-    RED.nodes.registerType("toFloat", DoubleConversionNode);
+    RED.nodes.registerType("toDouble", DoubleConversionNode);
 }
