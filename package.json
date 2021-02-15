@@ -1,5 +1,5 @@
 {
-  "name": "node-red-contrib-float",
+  "name": "node-red-contrib-double",
   "version": "1.0.0",
   "description": "Node-RED node to parse decimal and binary numbers to IEEE-754 Floating Point Numbers",
   "main": "float.js",

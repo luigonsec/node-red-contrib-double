@@ -6,7 +6,7 @@ Node Red node to convert binary and decimal numbers in IEEE-754 double precision
 
 Run the following command in the root directory of your Node-RED install
 
-    npm install node-red-contrib-float
+    npm install node-red-contrib-double
 
 # Usage
 
